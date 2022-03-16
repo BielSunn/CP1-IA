@@ -36,6 +36,7 @@ pip install seaborn
 python -m pip install -U matplotlib
 pip install pandas
 pip install numpy
+pip install -U scikit-learn
 ```
 
 <p>Para iniciar o Jupyter Notebook:</p>
