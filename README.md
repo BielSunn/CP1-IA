@@ -37,6 +37,6 @@ git clone https://github.com/BielSunn/CP1-IA.git
 # Referências
 * Item 1
 
-[Youtube](https://www.youtube.com//)
+[Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[Youtube2](https://www.youtube.com//)
+[Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
