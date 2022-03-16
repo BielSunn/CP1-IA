@@ -53,7 +53,7 @@ git clone https://github.com/BielSunn/CP1-IA.git
 <hr>
 
 # Link de vídeo demonstração
-<a href="https://www.youtube.com/">Youtube</a>
+[Link vídeo Youtube](https://youtu.be/hDaDw7-hbv8)
 
 # Referências
 
