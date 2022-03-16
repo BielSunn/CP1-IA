@@ -40,6 +40,7 @@ pip install -U scikit-learn
 ```
 
 <p>Para iniciar o Jupyter Notebook:</p>
+
 ```
 jupyter notebook
 ```
