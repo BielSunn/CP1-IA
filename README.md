@@ -9,21 +9,41 @@ CheckPoint1 / NAC-1 da Matéria Disruptive Architectures Iot, Iob e IA
 <hr> 
 
 # Objetivo / descrição do Projeto
-<p>Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas.</p>
+<p>Projeto desenvolvido para que empresas do ramo imobiliário possam consultar informações de apartamentos de acordo com sua necessidade. Por exemplo: saber a média de preço
+de apartamentos com 1 quarto em um determinado bairro.</p>
+<p>Inicialmente foi desenvolvido uma solução para encontrar o valor de um um apartamento de 65m2 com 2 quartos, 2 vagas, reformado no Centro.</p>
+
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+  <li>Python</li>
+</ul>
 <hr>
 
 # Diagrama do projeto
-<p>Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido.</p>
+<p>Imagens de alguns gráficos gerados no projeto.</p>
+  <p align="center">
+    <img width="500" src="imgs/grafico1.png">
+    <img width="500" src="imgs/grafico2.png">
+</p>
 <hr>
 
 # Como usar
-<p>Explique como rodar o seu projeto. Quais programas instalar, como configurar...</p>
-<ul>
-  <li>Nome</li>
-  <li>Telefone</li>
-  <li>Endereço</li>
-  <li>País</li>
-</ul>
+<p>Você deve instalar o <b>Python 3</b> na sua máquina e as seguintes bibliotecas:</p>
+
+```
+python -m pip install -U pip
+pip install seaborn
+python -m pip install -U matplotlib
+pip install pandas
+pip install numpy
+```
+
+<p>Para iniciar o Jupyter Notebook:</p>
+```
+jupyter notebook
+```
+
+
 <p><b>Código para clonar repositório:</b></p>
 
 ```
@@ -35,7 +55,6 @@ git clone https://github.com/BielSunn/CP1-IA.git
 <a href="https://www.youtube.com/">Youtube</a>
 
 # Referências
-* Item 1
 
 [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
